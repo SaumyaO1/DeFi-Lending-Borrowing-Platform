@@ -27,4 +27,5 @@ To provide a foundational framework for decentralized, transparent, and trustles
 
 > _To be filled manually after deployment by Judy._
 
-"C:\Users\saumy\Pictures\Screenshots\Screenshot 2025-06-25 011127.png"
+![Screenshot 2025-06-25 011127](https://github.com/user-attachments/assets/3ba3c5bb-a4a2-4907-b35b-bde79f8c2878)
+
